@@ -1,0 +1,21 @@
+{
+    "name": "Shift8RegisterOut",
+    "description": "Control SIPO 8-bits Register IC's (74hc595 and etc)",
+    "keywords": "sipo, register",
+    "authors": [
+        {
+            "name": "Alexzander Purwoko Widiantoro",
+            "email": "purwoko908@gmail.com",
+            "url": "https://mail.google.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexzPurewoko/Shift8RegisterOut"
+    },
+    "version": "0.2a",
+    "homepage": "",
+    "frameworks": "Arduino",
+    "examples": []
+}
